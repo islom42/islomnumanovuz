@@ -7,14 +7,14 @@ I am  Islom Numanov. I am a Front-end developer. I solve problems, automate thin
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
  [![Linkedin Badge](https://img.shields.io/badge/-islomnumanov.uz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/islom-numanov-19a029217/)](https://www.linkedin.com/in/islom-numanov-19a029217/) 
-[![Facebook Badge](https://img.shields.io/badge/-Sukhrob_Nuraliev-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/sukhrob.nuraliev.9/)](https://www.facebook.com/sukhrob.nuraliev.9/) 
-[![Instagram Badge](https://img.shields.io/badge/-@sukhrobnuraliev_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/sukhrobnuraliev_/)
-[![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev)
+[![Facebook Badge](https://img.shields.io/badge/-Islom Numanov-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/sukhrob.nuraliev.9/)](https://www.facebook.com/sukhrob.nuraliev.9/) 
+[![Instagram Badge](https://img.shields.io/badge/-@islomnumanov.uz-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/sukhrobnuraliev_/)
+[![Telegram Badge](https://img.shields.io/badge/@n28081207-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently learning TypeScript
+- :computer: I'm currently learning ReactJs
 - :triangular_flag_on_post: I help young developers
 - :muscle: Do Bodybuilding & Calisthenics
 - :rocket: Always ready to collaborate for Dev Experiments
